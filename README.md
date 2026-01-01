@@ -3,19 +3,19 @@
   Building modern web products · Exploring AI
 </p>
 
----
+--
 
 <p align="center">
   <strong>Next.js · React · Python · AI · Linux</strong>
 </p>
 
----
+--
 
 ### About
 I build clean, modern web applications with a focus on performance, usability, and scalability.  
 Currently exploring artificial intelligence and intelligent systems.
 
----
+--
 
 ### Stack
 <div align="center">
@@ -30,7 +30,7 @@ Currently exploring artificial intelligence and intelligent systems.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="36"/>
 </div>
 
----
+--
 
 ### Snapshot
 <div align="center">
@@ -40,7 +40,7 @@ Currently exploring artificial intelligence and intelligent systems.
   />
 </div>
 
----
+--
 
 ### Contact
 <div align="center">
@@ -49,7 +49,7 @@ Currently exploring artificial intelligence and intelligent systems.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="28"/>
 </div>
 
----
+--
 
 <img
   src="https://raw.githubusercontent.com/ziuus/ziuus/output/snake.svg"
