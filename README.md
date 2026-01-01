@@ -4,48 +4,31 @@
 </p>
 
 <p align="center">
-  <strong>Next.js · React · Python · AI · Linux · Firebase · Tailwind · Figma</strong>
+  <strong>Next.js · React · TypeScript · Python · AI · Linux</strong>
 </p>
 
-### About
-I build clean, modern web applications with a focus on performance, usability, and scalability. Currently exploring artificial intelligence and intelligent systems.
+---
 
-### Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36"/>
-</div>
+### 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=plastic&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=plastic&logo=linux&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-### Stats & Graphs
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziuus&show_icons=true&theme=dracula&count_private=true" height="160" alt="GitHub Stats"/>
-  <img width="12"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuus&layout=compact&theme=dracula&hide_border=false" height="160" alt="Top Languages"/>
-</div>
+---
 
-### Contact
-<div align="center">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziuus&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuus&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
-<img
-  src="https://raw.githubusercontent.com/ziuus/ziuus/output/snake.svg"
-  alt="snake animation"
-/>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ziuus/ziuus/output/snake.svg" alt="snake animation"/>
+</p>
