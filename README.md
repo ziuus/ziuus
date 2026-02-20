@@ -1,6 +1,6 @@
 ## Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="28px" width="28px"/>
 
-- ⚛️ I build digital systems that grow businesses.
+- 📈 I build digital systems that grow businesses.
 - 🐧 Daily driving **Linux**
 - ✉️ Want to reach me? **Open an issue here**
 
