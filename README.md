@@ -1,7 +1,6 @@
 ## Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="28px" width="28px"/>
 
-- ⚛️ Building with **React, Next.js, TypeScript & modern web tooling**
-- 🤖 Exploring **AI / Machine Learning**
+- ⚛️ I build digital systems that grow businesses.
 - 🐧 Daily driving **Linux**
 - ✉️ Want to reach me? **Open an issue here**
 
