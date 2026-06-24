@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-paul-tomy-964309313/)
 [![X](https://img.shields.io/badge/-@ziusdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ziusdev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:noelyt101@gmail.com)
-[![Website](https://img.shields.io/badge/-zius.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://zius-app.vercel.app)
 
 I build practical software — AI workflows, full-stack products, and Linux desktop tools. No hype, just things that work.
 
