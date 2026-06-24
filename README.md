@@ -10,16 +10,18 @@ I build practical software — AI workflows, full-stack products, and Linux desk
 
 ### 🛠 Tech
 
-![TypeScript](https://cdn.simpleicons.org/typescript)
-![JavaScript](https://cdn.simpleicons.org/javascript)
-![Python](https://cdn.simpleicons.org/python)
-![React](https://cdn.simpleicons.org/react)
-![Next.js](https://cdn.simpleicons.org/nextdotjs)
-![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss)
-![Node.js](https://cdn.simpleicons.org/nodedotjs)
-![Docker](https://cdn.simpleicons.org/docker)
-![GitHub Actions](https://cdn.simpleicons.org/githubactions)
-![Linux](https://cdn.simpleicons.org/linux)
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/python" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/react" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/docker" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/githubactions" width="40" hspace="6"/>
+  <img src="https://cdn.simpleicons.org/linux" width="40" hspace="6"/>
+</p>
 
 ### 📊 GitHub
 
