@@ -1,21 +1,51 @@
 # Noel Paul Tomy
 
-I build practical software — AI workflows, full-stack products, and Linux desktop tools. No hype, just things that work.
+I build practical AI-powered software, automation systems, full-stack products, and Linux tools — focused on real-world usability, not hype.
 
 <br>
 
 <p>
-  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://cdn.simpleicons.org/linkedin" width="28" hspace="6" alt="LinkedIn"/></a>
-  <a href="https://x.com/ziusdev"><img src="https://cdn.simpleicons.org/x" width="28" hspace="6" alt="X"/></a>
-  <a href="mailto:noelyt101@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="28" hspace="6" alt="Email"/></a>
-  <img src="https://cdn.simpleicons.org/telegram" width="28" hspace="6" alt="Telegram"/>
+  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="26" hspace="5" alt="LinkedIn"/></a>
+  <a href="https://x.com/ziusdev"><img src="https://cdn.simpleicons.org/x" width="26" hspace="5" alt="X"/></a>
+  <a href="mailto:noelyt101@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="26" hspace="5" alt="Email"/></a>
+  <img src="https://cdn.simpleicons.org/telegram" width="26" hspace="5" alt="Telegram"/>
 </p>
 
 <br>
 
 ---
 
-### Technologies
+## What I Build
+
+- **AI workflows and agentic tools** — local-first agent systems, desktop automation, and vision-assisted CLI tools
+- **Full-stack web apps** — Next.js, React, Node.js, Python
+- **Linux desktop and terminal tools** — dashboards, monitoring, automation
+- **Premium digital products** — websites, web apps, and custom software through Crois Digital Reality
+
+<br>
+
+## Featured Projects
+
+### [GOAT](https://github.com/ziuus/GOAT)
+The fail-closed, local-first AI Agent OS for building, learning, and safe workflows. Agentic coding with approval profiles, patch reliability, and browser automation.
+
+### [journey](https://github.com/ziuus/journey)
+Privacy-focused, immersive goal tracking engine with a cinematic HUD, interactive tree view, and dynamic AI integration.
+
+### [vanta](https://github.com/ziuus/vanta)
+A super aesthetic terminal dashboard featuring tmux mode integration, Fastfetch stats, and Python/Textual Matrix rain.
+
+### [slovio-ai](https://github.com/ziuus/slovio-ai)
+Personal assistant experiment for local desktop automation workflows. ★5
+
+### [waiting-game](https://github.com/ziuus/waiting-game)
+Lightweight transparent overlay game for long-running terminal and build tasks.
+
+<br>
+
+---
+
+## Technologies
 
 <p>
   <img src="https://cdn.simpleicons.org/typescript" width="40" hspace="6" alt="TypeScript"/>
@@ -32,10 +62,10 @@ I build practical software — AI workflows, full-stack products, and Linux desk
 
 <br>
 
-### Tools
+## Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" hspace="6" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" width="40" hspace="6" alt="VS Code"/>
   <img src="https://cdn.simpleicons.org/brave" width="40" hspace="6" alt="Brave"/>
   <img src="https://cdn.simpleicons.org/git" width="40" hspace="6" alt="Git"/>
   <img src="https://cdn.simpleicons.org/fishshell" width="40" hspace="6" alt="fish"/>
@@ -47,7 +77,20 @@ I build practical software — AI workflows, full-stack products, and Linux desk
 
 ---
 
-### GitHub
+## GitHub
 
 ![Stats](https://readme-stats-fast.vercel.app/api?username=ziuus&hide_border=true&show_icons=true&rank_icon=github&theme=github_dark)
 ![Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=ziuus&hide_border=true&layout=compact&langs_count=8&theme=github_dark)
+
+<br>
+
+---
+
+## Contact
+
+- **Portfolio:** [crois.tech](https://crois.tech)
+- **GitHub:** [github.com/ziuus](https://github.com/ziuus)
+- **LinkedIn:** [linkedin.com/in/noel-paul-tomy-964309313](https://www.linkedin.com/in/noel-paul-tomy-964309313/)
+- **X:** [@ziusdev](https://x.com/ziusdev)
+- **Email:** [noelyt101@gmail.com](mailto:noelyt101@gmail.com)
+- **Telegram:** [t.me/](https://t.me/)
