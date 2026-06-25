@@ -13,11 +13,11 @@ I build practical AI workflows, full-stack products, and Linux desktop tools —
 
 ### Technologies
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,docker,linux" alt="Technologies"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,docker,fastapi,prisma,supabase,rust,go,githubactions" alt="Technologies"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=neovim,vscode,brave,git,fish,hermes" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=arch,hyprland,vscode,zed,brave,zen,git,fish,hermes,opencode,appflowy,cosmic,linux,atlassian" alt="Tools"/>
 
 ---
 
