@@ -17,7 +17,7 @@ I build practical AI workflows, full-stack products, and Linux desktop tools —
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,brave,git,fish,postman,figma" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=neovim,vscode,brave,git,fish,hermes" alt="Tools"/>
 
 ---
 
