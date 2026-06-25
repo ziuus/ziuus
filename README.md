@@ -3,10 +3,10 @@
 I build practical AI workflows, full-stack products, and Linux desktop tools — focused on things that actually work.
 
 <p>
-  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="26" hspace="5" alt="LinkedIn"/></a>
-  <a href="https://x.com/ziusdev"><img src="https://cdn.simpleicons.org/x" width="26" hspace="5" alt="X"/></a>
-  <a href="mailto:noelyt101@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="26" hspace="5" alt="Email"/></a>
-  <a href="https://t.me/iamzius"><img src="https://cdn.simpleicons.org/telegram" width="26" hspace="5" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=white" width="26" hspace="5" alt="LinkedIn"/></a>
+  <a href="https://x.com/ziusdev"><img src="https://api.iconify.design/simple-icons/x.svg?color=white" width="26" hspace="5" alt="X"/></a>
+  <a href="mailto:noelyt101@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=white" width="26" hspace="5" alt="Email"/></a>
+  <a href="https://t.me/iamzius"><img src="https://api.iconify.design/simple-icons/telegram.svg?color=white" width="26" hspace="5" alt="Telegram"/></a>
 </p>
 
 ---
