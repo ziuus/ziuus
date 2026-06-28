@@ -5,7 +5,7 @@ I build practical AI workflows, full-stack products, automation systems, and Lin
 Focused on shipping useful software, clean interfaces, and systems that actually work.
 
 <p>
-  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" hspace="4" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=0A66C2" width="26" hspace="4" alt="LinkedIn"/></a>
   <a href="https://x.com/ziusdev"><img src="https://cdn.simpleicons.org/x/888" width="26" hspace="4" alt="X"/></a>
   <a href="mailto:noelyt101@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" hspace="4" alt="Email"/></a>
   <a href="https://t.me/iamzius"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="26" hspace="4" alt="Telegram"/></a>
