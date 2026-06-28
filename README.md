@@ -5,10 +5,10 @@ I build practical AI workflows, full-stack products, automation systems, and Lin
 Focused on shipping useful software, clean interfaces, and systems that actually work.
 
 <p>
-  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/ziusdev"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:noelyt101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/iamzius"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/noel-paul-tomy-964309313/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" hspace="4" alt="LinkedIn"/></a>
+  <a href="https://x.com/ziusdev"><img src="https://cdn.simpleicons.org/x/888" width="26" hspace="4" alt="X"/></a>
+  <a href="mailto:noelyt101@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" hspace="4" alt="Email"/></a>
+  <a href="https://t.me/iamzius"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="26" hspace="4" alt="Telegram"/></a>
 </p>
 
 ---
