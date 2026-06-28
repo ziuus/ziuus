@@ -20,20 +20,20 @@ Focused on shipping useful software, clean interfaces, and systems that actually
 ### Environment
 
 <p>
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="26" alt="Arch"/>
-  <img src="https://cdn.simpleicons.org/hyprland/58E1FF" width="26" alt="Hyprland"/>
-  <img src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%23007ACC" width="26" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/zedindustries/1a7d36" width="26" alt="Zed"/>
-  <img src="https://cdn.simpleicons.org/brave/FB542B" width="26" alt="Brave"/>
-  <img src="https://cdn.simpleicons.org/zenbrowser/333" width="26" alt="Zen"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="26" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/fishshell/34C534" width="26" alt="Fish"/>
-  <img src="https://cdn.simpleicons.org/hermes/0091CD" width="26" alt="Hermes"/>
-  <img src="https://cdn.simpleicons.org/opencode/000" width="26" alt="OpenCode"/>
-  <img src="https://api.iconify.design/arcticons/appflowy.svg?color=%230979d6" width="26" alt="AppFlowy"/>
-  <img src="https://cdn.simpleicons.org/system76/333" width="26" alt="COSMIC"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="26" alt="Atlassian"/>
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="26" hspace="4" alt="Arch"/>
+  <img src="https://cdn.simpleicons.org/hyprland/58E1FF" width="26" hspace="4" alt="Hyprland"/>
+  <img src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%23007ACC" width="26" hspace="4" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/zedindustries/1a7d36" width="26" hspace="4" alt="Zed"/>
+  <img src="https://cdn.simpleicons.org/brave/FB542B" width="26" hspace="4" alt="Brave"/>
+  <img src="https://cdn.simpleicons.org/zenbrowser/6B8" width="26" hspace="4" alt="Zen"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="26" hspace="4" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/fishshell/34C534" width="26" hspace="4" alt="Fish"/>
+  <img src="https://cdn.simpleicons.org/hermes/0091CD" width="26" hspace="4" alt="Hermes"/>
+  <img src="https://cdn.simpleicons.org/opencode/888" width="26" hspace="4" alt="OpenCode"/>
+  <img src="https://api.iconify.design/arcticons/appflowy.svg?color=%230979d6" width="26" hspace="4" alt="AppFlowy"/>
+  <img src="https://cdn.simpleicons.org/system76/E95420" width="26" hspace="4" alt="COSMIC"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" hspace="4" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="26" hspace="4" alt="Atlassian"/>
 </p>
 
 ---
