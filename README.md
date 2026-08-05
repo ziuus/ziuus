@@ -15,7 +15,7 @@ Focused on shipping useful software, clean interfaces, and systems that actually
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,docker,fastapi,prisma,supabase,rust,go,githubactions" alt="Stack"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,solidity,cpp,react,nextjs,tailwind,nodejs,express,fastapi,prisma,supabase,postgres,sqlite,mongodb,redis,docker,graphql,vite,threejs,tauri,githubactions,bash&perline=13" alt="Stack"/>
 
 ### Environment & Tools
 
