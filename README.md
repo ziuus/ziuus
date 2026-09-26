@@ -1,53 +1,22 @@
 # Noel Paul Tomy
 
-I build practical AI workflows, full-stack products, automation systems, and Linux desktop tools.
+AI Agent & Systems Engineer building autonomous workflows, Rust infrastructure, and production AI systems.
 
-Focused on shipping useful software, clean interfaces, and systems that actually work.
+Currently building [Vanta](https://github.com/ziuus/vanta) — a keyboard-driven terminal dashboard in Rust with a WASM extension architecture.
 
-<p>
-  <a href="https://www.linkedin.com/in/ziuus/"><img src="https://api.iconify.design/devicon/linkedin.svg" width="26" hspace="4" alt="LinkedIn"/></a>
-  <a href="https://x.com/ziusdev"><img src="https://cdn.simpleicons.org/x/888" width="26" hspace="4" alt="X"/></a>
-  <a href="mailto:noelyt101@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" hspace="4" alt="Email"/></a>
-  <a href="https://t.me/iamzius"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="26" hspace="4" alt="Telegram"/></a>
-</p>
+[Portfolio](https://ziuus.runs-on.dev) · [LinkedIn](https://www.linkedin.com/in/ziuus/) · [X](https://x.com/ziusdev) · [GitHub](https://github.com/ziuus) · [Email](mailto:noelyt101@gmail.com)
 
 ---
 
-### Stack
+### Focus
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,solidity,cpp,react,nextjs,tailwind,nodejs,express,fastapi,prisma,supabase,postgres,sqlite,mongodb,redis,docker,graphql,vite,threejs,tauri,githubactions,bash&perline=13" alt="Stack"/>
+- AI agents and LLM orchestration
+- Rust systems and developer tools
+- Kubernetes, cloud infrastructure, and MCP
+- Full-stack products with TypeScript and Next.js
 
-### Environment & Tools
+### Selected work
 
-<p>
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="26" hspace="4" alt="Arch Linux"/>
-  <img src="https://cdn.simpleicons.org/hyprland/58E1FF" width="26" hspace="4" alt="Hyprland"/>
-  <img src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%23007ACC" width="26" hspace="4" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/zedindustries/1a7d36" width="26" hspace="4" alt="Zed"/>
-  <img src="https://cdn.simpleicons.org/brave/FB542B" width="26" hspace="4" alt="Brave"/>
-  <img src="https://cdn.simpleicons.org/zenbrowser/6B8" width="26" hspace="4" alt="Zen Browser"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="26" hspace="4" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/fishshell/34C534" width="26" hspace="4" alt="Fish"/>
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="26" hspace="4" alt="Claude Code"/>
-  <img src="https://cdn.simpleicons.org/hermes/0091CD" width="26" hspace="4" alt="Hermes"/>
-  <img src="https://cdn.simpleicons.org/opencode/888" width="26" hspace="4" alt="OpenCode"/>
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="26" hspace="4" alt="Antigravity"/>
-  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2310A37F" width="26" hspace="4" alt="Codex"/>
-  <img src="https://cdn.simpleicons.org/xiaomi/FF6900" width="26" hspace="4" alt="MiMo Code"/>
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="26" hspace="4" alt="Ollama"/>
-  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="26" hspace="4" alt="Cursor"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="26" hspace="4" alt="Hugging Face"/>
-  <img src="https://api.iconify.design/arcticons/appflowy.svg?color=%230979d6" width="26" hspace="4" alt="AppFlowy"/>
-  <img src="https://cdn.simpleicons.org/system76/E95420" width="26" hspace="4" alt="COSMIC"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" hspace="4" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="26" hspace="4" alt="Atlassian"/>
-</p>
-
----
-
-### GitHub
-
-<p>
-  <img src="https://readme-stats-fast.vercel.app/api?username=ziuus&hide_border=true&show_icons=true&rank_icon=github&theme=github_dark" height="155" alt="GitHub Stats"/>
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ziuus&hide_border=true&layout=compact&langs_count=8&theme=github_dark" height="155" alt="Top Languages"/>
-</p>
+- [Vanta](https://github.com/ziuus/vanta) — keyboard-driven terminal dashboard with native Rust panels and sandboxed WASM extensions
+- [Zervox](https://zervox.vercel.app) — autonomous Kubernetes incident remediation engine
+- [OmniRoute](https://github.com/ziuus/OmniRoute) — unified AI gateway for models and providers
