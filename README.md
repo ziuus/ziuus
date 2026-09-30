@@ -19,4 +19,3 @@ Currently building [Vanta](https://github.com/ziuus/vanta) — a keyboard-driven
 
 - [Vanta](https://github.com/ziuus/vanta) — keyboard-driven terminal dashboard with native Rust panels and sandboxed WASM extensions
 - [Zervox](https://zervox.vercel.app) — autonomous Kubernetes incident remediation engine
-- [OmniRoute](https://github.com/ziuus/OmniRoute) — unified AI gateway for models and providers
