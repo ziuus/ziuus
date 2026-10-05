@@ -2,7 +2,7 @@
 
 AI Agent & Systems Engineer building autonomous workflows, Rust infrastructure, and production AI systems.
 
-Currently building [Vanta](https://github.com/ziuus/vanta) — a keyboard-driven terminal dashboard in Rust with a WASM extension architecture.
+Currently building [Orbit](https://github.com/ziuus/orbit-tui) — an extensible Rust terminal dashboard and developer control plane with a native WASM plugin ecosystem.
 
 [Portfolio](https://ziuus.runs-on.dev) · [LinkedIn](https://www.linkedin.com/in/ziuus/) · [X](https://x.com/ziusdev) · [GitHub](https://github.com/ziuus) · [Email](mailto:noelyt101@gmail.com)
 
@@ -17,7 +17,7 @@ Currently building [Vanta](https://github.com/ziuus/vanta) — a keyboard-driven
 
 ### Selected work
 
-- [Vanta](https://github.com/ziuus/vanta) — keyboard-driven terminal dashboard with sandboxed WASM extensions; the only monitoring TUI that's a platform, not a static binary
+- [Orbit](https://github.com/ziuus/orbit-tui) — keyboard-driven terminal dashboard and AI gateway with sandboxed WASM extensions; the only monitoring TUI that's a platform, not a static binary
 - [settings-tui](https://github.com/ziuus/settings-tui) — the only unified Linux control center in the terminal; drives D-Bus, NetworkManager, BlueZ, PipeWire, systemd from one keyboard-first UI — no GUI equivalent, no other TUI covers more than one subsystem
 - [Waiting Game](https://github.com/ziuus/waiting-game) — transparent full-screen desktop overlay that lets you play while builds/CI run; no other tool occupies this "wait time" niche
 - [Restate MCP Gateway](https://github.com/ziuus/restate-mcp-gateway) — first MCP proxy with durable execution (retries, journaling, HITL gates) via Restate; turns flaky tool calls into auditable workflows
