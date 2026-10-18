@@ -17,6 +17,7 @@ Currently building [Orbit](https://github.com/ziuus/orbit-tui) — an extensible
 
 ### Selected work
 
+- [GoRoute](https://github.com/ziuus/goroute) — ultra-lightweight (<15MB RAM) LLM gateway and multi-agent router in Go; automatic multi-account failover, dual OpenAI/Anthropic protocol translation, and 1-click configuration for Claude Code, OpenCode, Codex, and Cursor
 - [Orbit](https://github.com/ziuus/orbit-tui) — keyboard-driven terminal dashboard and AI gateway with sandboxed WASM extensions; the only monitoring TUI that's a platform, not a static binary
 - [settings-tui](https://github.com/ziuus/settings-tui) — the only unified Linux control center in the terminal; drives D-Bus, NetworkManager, BlueZ, PipeWire, systemd from one keyboard-first UI — no GUI equivalent, no other TUI covers more than one subsystem
 - [Waiting Game](https://github.com/ziuus/waiting-game) — transparent full-screen desktop overlay that lets you play while builds/CI run; no other tool occupies this "wait time" niche
