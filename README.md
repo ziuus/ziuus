@@ -3,9 +3,9 @@
 # Noel Paul Tomy
 
 **AI Systems Engineer**  
-Rust systems · LLM gateways · terminal tooling
+Rust · Agentic Systems · Full-Stack
 
-I build infrastructure that runs close to the metal — provider routers, developer control planes, and local-first AI tooling.
+I build AI systems and developer tools, mostly in Rust and TypeScript.
 
 <a href="https://ziuus.runs-on.dev"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=flat-square&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ziuus/"><img src="https://img.shields.io/badge/LinkedIn-2f81f7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -29,21 +29,22 @@ I build infrastructure that runs close to the metal — provider routers, develo
 
 ### Featured work
 
-- **[Orbit](https://github.com/ziuus/orbit-tui)** — keyboard-driven terminal dashboard in Rust. Six modes, ~3 MB binary, sandboxed WASM extensions.
-- **[GoRoute](https://github.com/ziuus/goroute)** — LLM gateway and multi-provider router in Go. Under 15 MB RAM, account failover, OpenAI/Anthropic protocol translation.
-- **[settings-tui](https://github.com/ziuus/settings-tui)** — Linux control center in the terminal. D-Bus, NetworkManager, BlueZ, PipeWire and systemd behind one keyboard-first UI.
-- **[liquid-glass](https://github.com/ziuus/liquid-glass)** — physical glass rendering engine for Wayland, written in Rust and WGSL.
-- **[Restate MCP Gateway](https://github.com/ziuus/restate-mcp-gateway)** — MCP proxy with durable execution: retries, journaling, and human-in-the-loop gates.
-- **[Zervox](https://github.com/ziuus/Zervox)** — Kubernetes incident remediation with OPA guardrails. Reads alerts, plans the fix, executes within policy.
+- **[Orbit](https://github.com/ziuus/orbit-tui)** — extensible terminal workspace and system dashboard in Rust, with a WASM extension ecosystem.
+- **[GoRoute](https://github.com/ziuus/goroute)** — single-binary LLM gateway and provider router in Go: OAuth rotation, quota failover, Anthropic↔OpenAI protocol normalization.
+- **[settings-tui](https://github.com/ziuus/settings-tui)** — Linux control center in the terminal: network, audio, displays, power, Bluetooth, systemd units and themes in one keyboard-driven UI.
+- **[Zervox](https://github.com/ziuus/Zervox)** — out-of-band Kubernetes incident remediation: ingests alerts, runs root-cause analysis, clears OPA policy gates before acting.
+- **[Restate MCP Gateway](https://github.com/ziuus/restate-mcp-gateway)** — makes MCP tool calls durable: automatic retries, execution journaling, concurrency shaping, human approval gates.
+- **[liquid-glass](https://github.com/ziuus/liquid-glass)** — Wayland glass optics engine in Rust and WGSL: Snell refraction, chromatic dispersion, spring-driven motion.
 
 <details>
 <summary>More projects</summary>
 
-- **[Waiting Game](https://github.com/ziuus/waiting-game)** — full-screen overlay game for the dead time while builds and CI run.
-- **[OmniChat Harness](https://github.com/ziuus/omnichat-harness)** — OpenAI-compatible gateway that drives web chat sessions through a real browser.
-- **[Appztore](https://github.com/ziuus/Appztore)** — Linux package manager TUI across pacman, AUR, Flatpak, Snap and Docker, with security scoring.
-- **[Orpaq AI](https://github.com/ziuus/orpaq-ai)** — lead research that reads and scores websites instead of scraping text.
-- **[Synapse](https://github.com/ziuus/synapse)** · **[voxassist](https://github.com/ziuus/voxassist)**
+- **[Waiting Game](https://github.com/ziuus/waiting-game)** — transparent full-screen overlay game for long-running builds and terminal tasks.
+- **[OmniChat Harness](https://github.com/ziuus/omnichat-harness)** — OpenAI-compatible gateway that drives chat web UIs through your own browser session.
+- **[Appztore](https://github.com/ziuus/Appztore)** — AI-powered Linux app manager that unifies multiple software sources.
+- **[Orpaq AI](https://github.com/ziuus/orpaq-ai)** — lead generation and website analysis using AI vision.
+- **[Synapse](https://github.com/ziuus/synapse)** — local agent framework experiments: expert routing, telemetry, desktop automation.
+- **[VoxAssist](https://github.com/ziuus/voxassist)** — clinical note generation from doctor–patient conversations.
 
 </details>
 
