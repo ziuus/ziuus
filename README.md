@@ -29,21 +29,21 @@ I build infrastructure that runs close to the metal — provider routers, develo
 
 ### Featured work
 
-**[Orbit](https://github.com/ziuus/orbit-tui)** — keyboard-driven terminal dashboard in Rust. Six modes, ~3 MB binary, sandboxed WASM extensions.  
-**[GoRoute](https://github.com/ziuus/goroute)** — LLM gateway and multi-provider router in Go. Under 15 MB RAM, account failover, OpenAI/Anthropic protocol translation.  
-**[settings-tui](https://github.com/ziuus/settings-tui)** — Linux control center in the terminal. D-Bus, NetworkManager, BlueZ, PipeWire and systemd behind one keyboard-first UI.  
-**[liquid-glass](https://github.com/ziuus/liquid-glass)** — physical glass rendering engine for Wayland, written in Rust and WGSL.  
-**[Restate MCP Gateway](https://github.com/ziuus/restate-mcp-gateway)** — MCP proxy with durable execution: retries, journaling, and human-in-the-loop gates.  
-**[Zervox](https://github.com/ziuus/Zervox)** — Kubernetes incident remediation with OPA guardrails. Reads alerts, plans the fix, executes within policy.
+- **[Orbit](https://github.com/ziuus/orbit-tui)** — keyboard-driven terminal dashboard in Rust. Six modes, ~3 MB binary, sandboxed WASM extensions.
+- **[GoRoute](https://github.com/ziuus/goroute)** — LLM gateway and multi-provider router in Go. Under 15 MB RAM, account failover, OpenAI/Anthropic protocol translation.
+- **[settings-tui](https://github.com/ziuus/settings-tui)** — Linux control center in the terminal. D-Bus, NetworkManager, BlueZ, PipeWire and systemd behind one keyboard-first UI.
+- **[liquid-glass](https://github.com/ziuus/liquid-glass)** — physical glass rendering engine for Wayland, written in Rust and WGSL.
+- **[Restate MCP Gateway](https://github.com/ziuus/restate-mcp-gateway)** — MCP proxy with durable execution: retries, journaling, and human-in-the-loop gates.
+- **[Zervox](https://github.com/ziuus/Zervox)** — Kubernetes incident remediation with OPA guardrails. Reads alerts, plans the fix, executes within policy.
 
 <details>
 <summary>More projects</summary>
 
-**[Waiting Game](https://github.com/ziuus/waiting-game)** — full-screen overlay game for the dead time while builds and CI run.  
-**[OmniChat Harness](https://github.com/ziuus/omnichat-harness)** — OpenAI-compatible gateway that drives web chat sessions through a real browser.  
-**[Appztore](https://github.com/ziuus/Appztore)** — Linux package manager TUI across pacman, AUR, Flatpak, Snap and Docker, with security scoring.  
-**[Orpaq AI](https://github.com/ziuus/orpaq-ai)** — lead research that reads and scores websites instead of scraping text.  
-**[Synapse](https://github.com/ziuus/synapse)** · **[vanta](https://github.com/ziuus/vanta)** · **[voxassist](https://github.com/ziuus/voxassist)**
+- **[Waiting Game](https://github.com/ziuus/waiting-game)** — full-screen overlay game for the dead time while builds and CI run.
+- **[OmniChat Harness](https://github.com/ziuus/omnichat-harness)** — OpenAI-compatible gateway that drives web chat sessions through a real browser.
+- **[Appztore](https://github.com/ziuus/Appztore)** — Linux package manager TUI across pacman, AUR, Flatpak, Snap and Docker, with security scoring.
+- **[Orpaq AI](https://github.com/ziuus/orpaq-ai)** — lead research that reads and scores websites instead of scraping text.
+- **[Synapse](https://github.com/ziuus/synapse)** · **[voxassist](https://github.com/ziuus/voxassist)**
 
 </details>
 
