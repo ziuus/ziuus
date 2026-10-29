@@ -18,8 +18,8 @@ I build AI systems and developer tools, mostly in Rust and TypeScript.
 
 <div align="center">
 
-<img height="170" src="https://gh-readme-stats.deno.dev/api?username=ziuus&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=6e7681&rank_icon=github&hide=issues" alt="GitHub stats" />
-<img height="170" src="https://gh-readme-stats.deno.dev/api/top-langs/?username=ziuus&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=6e7681&hide=html,css,shell" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ziuus&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=6e7681&rank_icon=github&hide=issues" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ziuus&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=6e7681&hide=html,css,shell" alt="Top languages" />
 
 <img width="467" src="https://streak-stats.demolab.com?user=ziuus&hide_border=true&background=00000000&ring=2f81f7&fire=2f81f7&currStreakNum=6e7681&sideNums=6e7681&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681" alt="Contribution streak" />
 
