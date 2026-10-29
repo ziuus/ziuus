@@ -14,6 +14,8 @@ I build AI systems and developer tools, mostly in Rust and TypeScript.
 
 </div>
 
+![GitHub Stats](https://gh-readme-stats.deno.dev/api?username=ziuus&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=6e7681&rank_icon=github&hide=issues)
+
 ---
 
 <div align="center">
