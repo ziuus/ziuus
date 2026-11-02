@@ -29,12 +29,18 @@ I build AI systems and developer tools, mostly in Rust and TypeScript.
 
 ### Featured work
 
-- **[Orbit](https://github.com/ziuus/orbit-tui)** — extensible terminal workspace and system dashboard in Rust, with a WASM extension ecosystem.
-- **[GoRoute](https://github.com/ziuus/goroute)** — single-binary LLM gateway and provider router in Go: OAuth rotation, quota failover, Anthropic↔OpenAI protocol normalization.
-- **[settings-tui](https://github.com/ziuus/settings-tui)** — Linux control center in the terminal: network, audio, displays, power, Bluetooth, systemd units and themes in one keyboard-driven UI.
+- **[Orbit](https://github.com/ziuus/orbit-tui)** — Extensible terminal workspace & system monitor in Rust with WASM plugins.  
+  `yay -S orbit-tui-bin` &bull; `npx @ziuus/orbit` &bull; Featured on [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+- **[GoRoute](https://github.com/ziuus/goroute)** — Sub-millisecond AI gateway and multi-model router in Go (< 5MB RAM).  
+  `yay -S goroute-bin` &bull; `npx goroute` &bull; Launching on [Product Hunt](https://www.producthunt.com/products/goroute)
+- **[settings-tui](https://github.com/ziuus/settings-tui)** — Unified native control center for Linux power users (WiFi, Bluetooth, Audio, power, systemd).  
+  `yay -S settings-tui-bin` &bull; `npx settings-tui` &bull; [Awesome Ratatui](https://github.com/ratatui/awesome-ratatui)
+- **[liquid-glass](https://github.com/ziuus/liquid-glass)** — Hyper-fluid physics & liquid glass optical rendering engine for Linux/Wayland (WGPU + WGSL).  
+  Real-time Snell lensing &bull; Chromatic dispersion &bull; GPU caustics
+- **[OmniChat Harness](https://github.com/ziuus/omnichat-harness)** — Dual-protocol local AI gateway and Model Context Protocol (MCP) agent harness.  
+  `npx omnichat-harness` &bull; Real-time SSE streaming &bull; Claude & OpenAI compatible
 - **[Zervox](https://github.com/ziuus/Zervox)** — out-of-band Kubernetes incident remediation: ingests alerts, runs root-cause analysis, clears OPA policy gates before acting.
 - **[Restate MCP Gateway](https://github.com/ziuus/restate-mcp-gateway)** — makes MCP tool calls durable: automatic retries, execution journaling, concurrency shaping, human approval gates.
-- **[liquid-glass](https://github.com/ziuus/liquid-glass)** — Wayland glass optics engine in Rust and WGSL: Snell refraction, chromatic dispersion, spring-driven motion.
 
 <details>
 <summary>More projects</summary>
