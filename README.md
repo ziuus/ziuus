@@ -36,7 +36,7 @@ I build AI systems and developer tools, mostly in Rust and TypeScript.
 - **[settings-tui](https://github.com/ziuus/settings-tui)** — Unified native control center for Linux power users (WiFi, Bluetooth, Audio, power, systemd).  
   `yay -S settings-tui-bin` &bull; `npx settings-tui` &bull; [Awesome Ratatui](https://github.com/ratatui/awesome-ratatui)
 - **[liquid-glass](https://github.com/ziuus/liquid-glass)** — Hyper-fluid physics & liquid glass optical rendering engine for Linux/Wayland (WGPU + WGSL).  
-  Real-time Snell lensing &bull; Chromatic dispersion &bull; GPU caustics
+  `yay -S liquid-glass-git` &bull; Real-time Snell lensing &bull; Chromatic dispersion &bull; GPU caustics
 - **[OmniChat Harness](https://github.com/ziuus/omnichat-harness)** — Dual-protocol local AI gateway and Model Context Protocol (MCP) agent harness.  
   `npx omnichat-harness` &bull; Real-time SSE streaming &bull; Claude & OpenAI compatible
 - **[Zervox](https://github.com/ziuus/Zervox)** — out-of-band Kubernetes incident remediation: ingests alerts, runs root-cause analysis, clears OPA policy gates before acting.
